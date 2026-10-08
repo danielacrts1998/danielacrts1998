@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Daniela
 
-<!--
-**danielacrts1998/danielacrts1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science Master's student with a background in Actuarial Science
+and 4+ years of experience in analytics, statistical modelling and
+financial risk.
 
-Here are some ideas to get you started:
+Currently focusing on:
+- Machine Learning
+- Deep Learning
+- Predictive Modelling
+- Computer Vision
+- Applied AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+🎓 MSc Data Science — EIT Digital Master School:
+- Specialization in Multimedia and Web Science for Big Data
+- Minor in Innovation & Entrepreneurship
+- Year 1: Eötvös Loránd University
+- Year 2: Université Côte d'Azur
+
+🎓 BSc Actuarial Science — Universidad Anáhuac México Norte
+
+## Technical Skills
+
+Python | R | SQL | PyTorch | TensorFlow | scikit-learn |
+ pandas | NumPy | Docker | Git | Tableau
+
+## Featured Projects
+
+🔹 Machine Learning for Image Analysis
+🔹 Deep Learning
+🔹 Synthetic Population Generation
+🔹 Agrotech Market Analysis
+🔹 Confido — Financial Passport
+
+## Experience
+
+4+ years in:
+- Advanced Analytics
+- Marketing Mix Modelling
+- Financial Risk
+- Business Intelligence
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/danielacrts/
