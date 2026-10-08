@@ -30,7 +30,6 @@ Python | R | SQL | PyTorch | TensorFlow | scikit-learn |
 
 🔹 Machine Learning for Image Analysis
 🔹 Deep Learning
-🔹 Synthetic Population Generation
 🔹 Agrotech Market Analysis
 🔹 Confido — Financial Passport
 
