@@ -13,7 +13,7 @@ Currently focusing on:
 
 ## Education
 
-🎓 MSc Data Science — EIT Digital Master School:
+🎓 MSc Data Science — EIT Digital Master School (Final year):
 - Specialization in Multimedia and Web Science for Big Data
 - Minor in Innovation & Entrepreneurship
 - Year 1: Eötvös Loránd University
